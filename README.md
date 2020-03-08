@@ -11,13 +11,6 @@ In order to use this tool, you first need the URL for the text file containing t
 git clone https://github.com/myahya/islamde-prayer-times-simple.git
 python islamde-prayertimes-simple.py -i saarbruecken.txt
 ```
-
-
-## Options
-The following options are available:
-
-    -h shows this help message.
-    -i set the input file. 
     
 ## Licence 
 MIT License 
